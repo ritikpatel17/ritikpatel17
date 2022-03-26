@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ritikpatel17
 - 👀 I’m interested in Big Data Handling
-- I’m a CSE 2nd Year Student at IIITV
+- ✨I’m a CSE 2nd Year Student at IIITV
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
