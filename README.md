@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ritikpatel17
-- 👀 I’m interested in Data Analysis
-- ✨I’m a CSE 2nd Year Student at IIITV
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in Data Analytics
+- ✨I’m a CSE 3rd Year Student at IIITV
+- 🌱 I’m currently learning Data Science and Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
